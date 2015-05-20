@@ -1,0 +1,2 @@
+export GOPATH=~/Source/gopath 
+export PATH=$GOPATH/bin:$PATH 
